@@ -7,4 +7,4 @@
 ## ABOUT
 ## FEATURES
 - rgb led indicator
-- home assistant integration using ES
+- home assistant integration using [ESPHOME](https://website-name.com 'Link title')
