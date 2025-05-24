@@ -16,3 +16,7 @@
 - i am using a nespresso dolce gusto colors machine in this case
 - schematics soon
 - code released soon
+
+
+## PROGRESS
+![image](https://github.com/user-attachments/assets/cc2f2316-b727-406b-ab69-aae0692c9fc1)
