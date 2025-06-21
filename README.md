@@ -14,6 +14,18 @@
 - fully customizable
 - thermosat integration for adjustable target temp
 ## HOW-TO
+### IN PROGRESS....
+- add a RGB led to the hot/cold selector
+- replace bottom bard with 2 relays and a 5v power supply
+- remove top board completely
+
+
+
+
+
+
+
+
 - i am using a nespresso dolce gusto colors machine in this case
 - schematics soon
 - code released soon
