@@ -10,13 +10,13 @@ ota:
   - platform: esphome
 api:
   encryption:
-    key: "Lp+LTvWRUSR1GwkPOZDIKzU6U3pabS3uDgAq7qVCD+c="
+    key: "HOMEASSISTANT API"
 wifi:
   ssid: !secret wifi_ssid
   password: !secret wifi_password
   ap:
     ssid: "Smart-Coffee Fallback Hotspot"
-    password: "wCm3KgdrcqjU"
+    password: "12345678"
 captive_portal:
 #SETUP END
 
