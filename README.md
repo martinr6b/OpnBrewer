@@ -12,6 +12,7 @@
 - home assistant integration using [ESPHOME](https://esphome.io 'esphome main page')
 - auto power off
 - fully customizable
+- thermosat integration for adjustable target temp
 ## HOW-TO
 - i am using a nespresso dolce gusto colors machine in this case
 - schematics soon
