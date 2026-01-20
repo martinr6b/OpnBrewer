@@ -18,21 +18,13 @@
 - add a RGB led to the hot/cold selector
 - replace bottom bard with 2 relays and a 5v power supply
 - remove top board completely
-
-
-
-
-
-
-
-
 - i am using a nespresso dolce gusto colors machine in this case
 - schematics soon
 - code released soon
 
 
 ## PROGRESS
-![image](https://github.com/martinr6b/OpnBrewer/blob/main/images/HA%20exposes.png)
+![image](images/Home assistant integration.png)
 This is the way the Coffee machine is currently exposed to Home Assistant
 
 
