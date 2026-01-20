@@ -2,8 +2,7 @@
 [![](https://dcbadge.limes.pink/api/server/(https://discord.gg/c2CaMQDF9t))](https://discord.gg/c2CaMQDF9t)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@muffin_tech_)
 
-## Work in progress 🛠️*nearly done*
-# THERE IS CODE UPLOADED BUT IT IS NOT YET STABLE (read features and TODO)
+## Work in progress
 ## ABOUT
 - makes a dumb cofee machine smart
 - using an esp32-c3
@@ -34,10 +33,10 @@
 
 ## PROGRESS
 ![image](https://github.com/martinr6b/OpnBrewer/blob/main/images/HA%20exposes.png)
-this is all i have in home assistant so far but will get more later
+This is the way the Coffee machine is currently exposed to Home Assistant
 
 
 ## TODO 
-- add capsule interlock
-- make thermistor readings more accurate
-- fix pump runaway problem
+- Fix delayed temperature readings
+- Order Power Supply PCB
+- Finish Top PCB
