@@ -24,7 +24,7 @@ This project was only started because i was bored, and it's a good way for me to
 ## PROGRESS
 ![image](images/Home-assistant-integration.png)
 This is the way the Coffee machine is currently exposed to Home Assistant
-
+***
 ## TODO 
 - Fix delayed temperature readings
 - Order Power Supply PCB
