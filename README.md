@@ -24,7 +24,6 @@ This project was only started because i was bored, and it's a good way for me to
 ## PROGRESS
 <img src="images/Home-assistant-integration.png" width="200" />
 
-<br></br>
 This is the way the Coffee machine is currently exposed to Home Assistant
 <br></br>
 ## TODO 
