@@ -24,7 +24,7 @@
 
 
 ## PROGRESS
-![image](images/Home assistant integration.png)
+![image](images/Home-assistant-integration.png)
 This is the way the Coffee machine is currently exposed to Home Assistant
 
 
